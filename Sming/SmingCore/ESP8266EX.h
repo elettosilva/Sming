@@ -13,7 +13,7 @@
 
 #define TOTAL_PINS              16
 #define NUM_DIGITAL_PINS		TOTAL_PINS
-//#define TOTAL_ANALOG_PINS       1
+#define TOTAL_ANALOG_PINS       1
 
 
 //#define pinToInterrupt(PIN) \
